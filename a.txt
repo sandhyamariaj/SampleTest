@@ -2,6 +2,6 @@ this is a test file
 
 now this is edited
 
-Edited in remote master
+Edited in remote master changed
 
 Edited in remote master for fetch
