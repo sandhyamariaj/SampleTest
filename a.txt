@@ -1,9 +1,5 @@
 this is a test file 
-
 now this is edited
-
 Edited in remote master changed
-
 Edited in remote master for fetch
-
 Edited by Dev 2
