@@ -4,4 +4,4 @@ Edited in remote master changed
 Edited in remote master for fetch
 adding lines (Dev1)
 Edited by Dev 2
-
+Check mergetool in local
